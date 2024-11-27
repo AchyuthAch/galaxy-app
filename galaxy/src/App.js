@@ -16,7 +16,7 @@ function App() {
 
         <p>{ 10 }</p>
         <p>{ "hello, ninjas" }</p>
-        <p>{ [1,2,3,4,5] }</p>
+        <p>{ [6,7,8,9,10] }</p>
         <p>{ Math.random() * 10 }</p>
 
         <a href={link}>Google Site</a>
